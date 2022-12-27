@@ -1,4 +1,11 @@
 # Topic-modeling-research-papers
 
 ## Task :
-Given the abstract and title for a set of research articles, predict the topics for each article included in the test set.
+Given the abstract and title for a set of research articles, train a classifier to predict the topics for each article .
+
+The Notebook contains the following steps:
+
+- EDA
+- Data Cleaning
+- Feature Extraction (BOW, Word2Vec)
+- Classfication
